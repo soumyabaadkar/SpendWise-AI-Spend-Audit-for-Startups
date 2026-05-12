@@ -1,6 +1,6 @@
 # SpendWise — AI Spend Audit for Startups
 
-A free tool that audits your startup's AI subscription spend, identifies overpayment by plan, team size, and use case, and surfaces exactly how much you could save — in 90 seconds.
+A free tool that audits your startup's AI subscription spend, identifies overpayment by plan, team size, and use case, and surfaces exactly how much you could save in 90 seconds.
 
 Built as a lead-generation asset for [Credex](https://credex.rocks), which sells discounted AI infrastructure credits.
 
