@@ -6,7 +6,14 @@ Built as a lead-generation asset for [Credex](https://credex.rocks), which sells
 
 ## Screenshots
 
-> _Add 3+ screenshots or a Loom/YouTube link here before submitting_
+## Dashboard Preview
+![SpendWise Dashboard](./screenshots/dashboard.png)
+
+## Landing Page
+![Landing Page](./screenshots/landing_page.png)
+
+## Audit Dashboard
+![Audit Dashboard](./screenshots/audit_dashboard.png)
 
 ## Live URL
 
