@@ -10,7 +10,7 @@ Built as a lead-generation asset for [Credex](https://credex.rocks), which sells
 
 ## Live URL
 
-> https://your-vercel-deployment.vercel.app _(update before submission)_
+> https://spend-wise-ai-spend-audit-for-start-chi.vercel.app/
 
 ## Quick Start
 
